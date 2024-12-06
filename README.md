@@ -8,6 +8,8 @@ The key metrics dashboard I developed focuses on providing detailed insights int
 - Text and Shapes: Enhancing the readability and aesthetics of the dashboard.
 Learning DAX Language.
 Slicer
+![Screenshot (198)](https://github.com/user-attachments/assets/7174ae26-c20b-48fb-b0dc-defbd705b8c7)
+
 # Conclusion
 Creating this key metrics dashboard was a transformative experience. It not only honed my skills in Power BI and DAX but also provided a platform to apply these skills in a real-world context. The journey, guided by Codebasics, was enlightening and filled with learning opportunities. I look forward to continuing to explore the capabilities of Power BI and DAX, and to leveraging these skills to deliver impactful data insights in future projects.
 
